@@ -18,7 +18,7 @@
 [![Version](https://img.shields.io/badge/version-1.0.0-00ff88?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 [![MC Versions](https://img.shields.io/badge/MC-1.8%20→%201.21.1-0099ff?style=for-the-badge)](https://minecraft.net)
 [![License](https://img.shields.io/badge/license-MIT-ff4444?style=for-the-badge)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/yourusername/bLite?style=for-the-badge&color=ffcc00)](https://github.com)
+[![Stars](https://img.shields.io/github/stars/xbukkyCodes/bLite?style=for-the-badge&color=ffcc00)](https://github.com)
 
 > *"Know your enemy. Know yourself."*
 
@@ -119,7 +119,7 @@ bLite has been tested and tuned against the following systems:
 ### Build
 
 ```bash
-git clone https://github.com/yourusername/bLite.git
+git clone https://github.com/xbukkyCodes/bLite.git
 cd bLite
 ./gradlew build
 ```
