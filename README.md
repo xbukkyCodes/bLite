@@ -47,7 +47,7 @@ Supported versions ────────────────────�
 <summary><b>⚔️ Combat</b></summary>
 
 | Module | Description |
-|---|---|---|
+|---|---|
 | `KillAura` | Auto-targets and attacks nearby entities |
 | `Reach` | Extends melee attack range |
 | `Velocity` | Reduces knockback taken |
@@ -60,7 +60,7 @@ Supported versions ────────────────────�
 <summary><b>🏃 Movement</b></summary>
 
 | Module | Description |
-|---|---|---|
+|---|---|
 | `Speed` | Move faster than base walkspeed |
 | `Sprint` | Auto-sprint in all directions |
 | `NoFall` | Cancel fall damage |
@@ -73,7 +73,7 @@ Supported versions ────────────────────�
 <summary><b>📦 World / Misc</b></summary>
 
 | Module | Description |
-|---|---|---|
+|---|---|
 | `ESP` | Entity/player boxes through walls |
 | `Fullbright` | Max brightness, no gamma dependency |
 | `NoRotate` | Ignore server-sent look packets |
