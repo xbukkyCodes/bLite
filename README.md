@@ -92,13 +92,13 @@ bLite has been tested and tuned against the following systems:
 ┌──────────────────┬────────────────────────────────────────────┐
 │ Anticheat        │ Status                                     │
 ├──────────────────┼────────────────────────────────────────────┤
-│ NCP              │ ✅ Most checks bypassed (configurable)      │
-│ AAC              │ ✅ Movement + combat modules functional      │
+│ NCP              │ ✅ Most checks bypassed                    │
+│ AAC              │ ✅ Movement + combat modules functional    │
 │ Grim             │ ⚠️  Partial - strict prediction is hard    │
-│ Spartan          │ ✅ Stable across combat modules             │
-│ Intave           │ ⚠️  Limited - under active research        │
-│ Vulcan           │ ✅ Rotation + velocity bypassed             │
-│ Matrix           │ ✅ Full bypass on most modules              │
+│ Spartan          │ ✅ Stable across combat modules            │
+│ Intave           │ ⚠️  Limited functionality                  │
+│ Vulcan           │ ✅ Rotation + velocity bypassed            │
+│ Matrix           │ ⚠️ Limited functionality - combat works    │
 └──────────────────┴────────────────────────────────────────────┘
 
   ✅ = Tested, working    ⚠️  = Partial / WIP    ❌ = Detected
