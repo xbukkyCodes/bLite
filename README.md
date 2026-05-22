@@ -138,13 +138,7 @@ Output jar lands in `build/libs/`. Drop it into your mods folder.
 
 ## ▸ Learning Resources
 
-bLite is annotated as a **learning tool**. Every bypass technique links back to why it works:
-
-- **[`RotationUtils.java`](src/utils/RotationUtils.java)** - explains the difference between silent rotations (server-side only) and legit rotations (client + server synced), and why each matters for different anticheat checks.
-- **[`PacketUtils.java`](src/utils/PacketUtils.java)** - documents which packet fields anticheats read and how spoofing them triggers (or avoids) flags.
-- **[`modules/movement/`](src/modules/movement/)** - each file has a header explaining the AC detection vector it's designed around.
-
-If you're here to learn, start with the `utils/` folder - that's where the real meat is.
+bLite is annotated as a **learning tool**. Every bypass technique links back to why it works.
 
 ---
 
